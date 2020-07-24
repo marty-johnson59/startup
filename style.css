@@ -15,7 +15,7 @@ img {
 }
 
 img:hover {
-	transform: scale(1.2);
+	transform: scale(1.1);
 }
 
 /*img:active {
@@ -29,4 +29,4 @@ video {
 }
 
 video:hover{
-	transform: scale(1.2);
+	transform: scale(1.1);
